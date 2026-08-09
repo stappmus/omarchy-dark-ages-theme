@@ -23,6 +23,12 @@ Cycle through the included paintings with:
 omarchy theme bg next
 ```
 
+## Backgrounds
+
+[![The five Dark Ages background paintings](backgrounds-preview.jpg)](SOURCES.md)
+
+The preview links to the artwork credits and public-domain source records.
+
 ## Included
 
 - A true-black application and terminal palette
