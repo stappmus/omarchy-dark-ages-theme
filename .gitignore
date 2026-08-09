@@ -1,0 +1,6 @@
+# Local artwork and preview-production workspace
+/display-copies-7680x4800/
+/wallpapers-originals/
+/PACKAGE-VERSION.txt
+/PALETTE.toml
+/create-preview.sh
